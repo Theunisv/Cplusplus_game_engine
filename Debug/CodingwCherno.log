@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CodingwCherno.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Application.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\Dependencies\GLFW\include\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(87,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(88,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(267,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(268,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(289,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(648,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(649,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(663,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(664,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(355,13): warning C4101: 'changeAmount': unreferenced local variable
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(903,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(904,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(908,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(909,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(910,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(911,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\src\Application.cpp(913,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  CodingwCherno.vcxproj -> C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\Debug\GADETask1.exe

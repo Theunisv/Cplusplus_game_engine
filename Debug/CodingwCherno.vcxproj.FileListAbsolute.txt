@@ -1,0 +1,4 @@
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\CodingwCherno\Debug\GADETask1.exe
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\CodingwCherno\Debug\GADETask1.pdb
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\Debug\GADETask1.exe
+C:\Users\theun\OneDrive - Vega School\Documents 2020\VEGA\2020\Semester 2\GADE7312\Task 1\Coding\GADETask1\Debug\GADETask1.pdb
